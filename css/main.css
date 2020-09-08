@@ -1,0 +1,147 @@
+body{
+	background-color: #c9cdd1;
+	font-family: sans-serif;
+}
+.name{
+	background: #364e61;
+	color: #fff;
+	text-align: center;
+	height: 5vh;
+}
+.name h4{
+	padding-top: 0.4rem;
+}
+header{
+	height: 35vh;
+	background:#40566b;
+	margin-top: -22px;
+}
+header h1{
+	text-align: center;
+	color: #fff;
+	padding-top: 17.5px;
+	
+}
+header h6{
+	color: #c2b806;
+	text-align:center;
+
+
+}
+.aboutme{
+ height: 80vh;
+  width: 70rem;
+	background: #fff;
+	color: #a3a3a0;
+	margin-left: 4rem;
+}
+ .goals h2{
+	margin-top: 2px;
+	background: #c2b806;
+	color: #40566b;
+	height: 12vh;
+	padding-top: 2rem;
+	padding-left: 2rem;
+
+
+}
+ .myhobbies h2{
+	margin-top:2px;
+	background: #c2b806;
+	color: #40566b;
+	height: 12vh;
+	padding-top: 2rem;
+	padding-left: 2rem;
+
+
+}
+.aboutme h2{
+	margin-top: 4rem;
+	background: #c2b806;
+	color: #40566b;
+	height: 12vh;
+	padding-top: 2rem;
+	padding-left: 2rem;
+
+
+}
+.aboutme img{
+	float:left; 
+	margin-right: 10px; 
+	margin-bottom: 5px;
+	padding-left: 2rem;
+}
+.myhobbies {
+float: right;
+width:32rem; 
+height: 65vh; 
+margin-right: 5rem;
+background: #fff;
+color: #a3a3a0;
+margin-top: 2rem; 
+}
+.goals{
+float: left; 
+width:32rem; 
+height: 65vh; 
+margin-left: 4rem;
+background: #fff;
+color: #a3a3a0;
+margin-top: 2rem;
+
+
+}
+th{
+	 background: #c2b806;
+	 padding-top: 2rem;
+	 margin-top:5rem;
+}
+td th{
+	padding: 20px;
+	background: white ;
+}
+tr th{
+
+	color: #40566b;
+	height: 12vh;
+	margin-top: 2rem;
+	border-spacing:;
+	background-color: #c2b806;
+ 
+}
+table{
+border: collapse;
+text-align:center;
+  width: 70rem;
+  height: 80vh;
+  margin-left: 4rem;
+  background: #fff;
+  margin-top: 28rem;
+  justify-content: center;
+
+
+}
+footer{
+	background: #40566b;
+	color: #fff;
+	padding-top: 10px; 
+    height: 35vh; 
+    margin-top: 2rem;
+ 
+   
+
+}
+footer h6{
+	padding-left: 4rem;
+	color: #c2b806;
+
+}
+footer h3{
+	padding-left: 4rem;
+
+}
+footer h5{
+	padding-left: 4rem;
+
+
+}
